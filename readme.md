@@ -1,6 +1,6 @@
--->PROJECT DESCRIPTION:real time gesture recognition engine designing for various gesture recognition in different sign langauges,
+-->PROJECT DESCRIPTION:real time gesture recognition engine designed for various gesture recognition in different sign langauges,
 
--->MOTIVATION:gesture recognition is a mode of communication between blind people and with a machine/human to whivh he interacting and that what bring us the motto of this outcome, 
+-->MOTIVATION:gesture recognition is a mode of communication between blind people and with a machine/human to which he interacting and that what bring us the motto of this outcome, 
 
 -->API REFERENCE:Aforge Imaging and Video library,Support Vector Machine(SVM),
 
